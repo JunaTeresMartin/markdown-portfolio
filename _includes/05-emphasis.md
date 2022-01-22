@@ -1,7 +1,9 @@
-*This text will be italic*
-_This will also be italic_
+### Skills
+**Programming language**
+   * _C_
+   * _Java_
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_. 
+**Soft Skills**
+   * _Teamwork_
+   * _Decision making_
+ 
